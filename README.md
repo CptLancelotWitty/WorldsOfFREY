@@ -1,0 +1,2 @@
+# WorldsOfFREY
+A Minecraft Server.
